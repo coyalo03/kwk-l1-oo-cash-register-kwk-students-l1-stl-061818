@@ -6,5 +6,5 @@ amazon_cart.each do |price|
   puts "Item #{count} costs #{price}"
   count += 1 
 end 
-.each do || iterates through an array meaning it will start at the 0th element, and go through 
-each element in order and do something to it.
+# .each do || iterates through an array meaning it will start at the 0th element, and go through 
+# each element in order and do something to it.
